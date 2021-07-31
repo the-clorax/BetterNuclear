@@ -1,0 +1,10 @@
+{
+  "item":
+  [
+	["1%-enriched-uranium", "uranium-238"],
+	["80%-enriched-uranium", "uranium-235"],
+	["natural-uranium", "01%-enriched-uranium"],
+	["natural-uranium", "02%-enriched-uranium"],
+	["natural-uranium", "05%-enriched-uranium"]
+  ]
+}
